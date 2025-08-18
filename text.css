@@ -1,0 +1,57 @@
+.divider{
+    position: absolute;
+    bottom: 50px;
+    right: 20px;
+    color: #e5dddd;
+}
+
+.video-text{
+    position: absolute;
+    left: 104px;
+    top: 84px ;
+}
+.photo-video-text{
+    position: absolute;
+    left: 267px;
+    top: 84px ;
+}
+.feeling-activity-text{
+    position: absolute;
+    left: 450px;
+    top: 84px ;
+
+}
+.Muhammad-Subhan-text{
+    position: absolute;
+    top: 90px;
+    left: 70px;
+}
+.sponser-text{
+    position: relative;
+    font-size: 25px;
+    left: 750px;
+    bottom: 540px;
+    font-family: Arial;
+    color: rgb(180, 157, 157);
+}
+.sponser1-1-info{
+    position: relative;
+    font-size: 15px;
+    left: 695px;
+    bottom: 650px;
+    font-weight: 700;
+    font-family: Arial;
+    cursor: pointer;
+}
+.sponser-text:hover, .sponser1-1-info:hover, .sponser1-2-info:hover {
+  text-decoration: underline;
+}
+.sponser1-2-info{
+    cursor: pointer;
+    position: relative;
+    font-size: 15px;
+    left: 615px;
+    bottom: 630px;  
+     font-weight: 700;
+    font-family: Arial;
+}
