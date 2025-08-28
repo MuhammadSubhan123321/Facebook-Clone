@@ -32,3 +32,6 @@ That means:
 
 ✨ In short:
 This project was a great CSS positioning and hover practice where I avoided shortcuts like position: fixed and instead relied on relative + absolute positioning to achieve proper layouts.
+
+👨‍💻 Developer
+- Muhammad Subhan – Full-Stack Developer (in progress)
